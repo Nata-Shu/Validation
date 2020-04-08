@@ -1,3 +1,4 @@
 # Validation
-https://github.com/Nata-Shu/Validation
-v0.0.3
+Проектная работа 10 по темам Git и «командная строка»
+
+Версия проекта v1.0.0
