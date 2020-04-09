@@ -2,6 +2,6 @@
 **Проектная работа 10 по темам Git и «командная строка»**
 ---------------------------------------------------------
 
-[Ссылка на Github Pages] (https://github.com/Nata-Shu/Validation)
+Ссылка на Github Pages https://github.com/Nata-Shu/Validation
 
 Версия проекта v1.0.0
